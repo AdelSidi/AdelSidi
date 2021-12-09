@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdelSidi
-- 👀 I’m interested in Machine learning  
+- 👀 I’m interested in Machine learning  and Deep learning
 - 🌱 I’m currently learning  Data Science
 - 💞️ I’m looking to collaborate on projet 
  📫 How to reach me on facebook
